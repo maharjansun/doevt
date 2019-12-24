@@ -7,6 +7,14 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6831.m3u8
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/7058.m3u8
 #EXTINF:-1, BOX NATION | UHD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6845.m3u8
+#EXTINF:-1,UK - Sky Box Office 1 HD
+http://kstv.xyz:8080/live/ddelprado/7291426838/12205.m3u8
+#EXTINF:-1,UK - Sky Box Office 2 HD
+http://kstv.xyz:8080/live/ddelprado/7291426838/12204.m3u8
+#EXTINF:-1,UK - Sky Box Office 3D
+http://kstv.xyz:8080/live/ddelprado/7291426838/12203.m3u8
+#EXTINF:-1,UK - Sky Box Office 4 HD
+http://kstv.xyz:8080/live/ddelprado/7291426838/12202.m3u8
 #EXTINF:-1, SKY ATLANTIC | UHD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/7030.m3u8
 #EXTINF:-1,UK: SKY CINEMA ACTION & ADVENTURE | UHD
@@ -91,6 +99,8 @@ http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/4064.m3u8
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/4067.m3u8
 #EXTINF:-1,BT SPORTS 3 FHD 50Fps
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/4066.m3u8
+#EXTINF:-1,US | Cinemax HD
+http://kstv.xyz:8080/live/ddelprado/7291426838/15921.m3u8
 #EXTINF:-1,UK: MTV | UHD
 http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/6971.m3u8
 #EXTINF:-1,UK: MTV LIVE | UHD
@@ -107,11 +117,10 @@ http://iptv9211.hopto.me:8000/live/zup4OmXs3O/kFMJn4q48f/29859.m3u8
 http://iptv9211.hopto.me:8000/live/zup4OmXs3O/kFMJn4q48f/29738.m3u8
 #EXTINF:-1,IND - Sony Tv UK*
 http://iptv9211.hopto.me:8000/live/zup4OmXs3O/kFMJn4q48f/29861.m3u8
-#EXTINF:-1,IND - ZEE  TV UK*
-http://iptv9211.hopto.me:8000/live/zup4OmXs3O/kFMJn4q48f/29641.m3u8
-#EXTINF:-1,UK: ZEE CINEMA | UHD
-http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/7099.m3u8
-#EXTINF:-1, Kantipur TV
-http://ktvhd88249.ekantipur.com:8081/fifaktvhdedgecdn/live_720p/chunks.m3u8
-
+#EXTINF:-1,|UK| ZEE CINEMA FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547804.m3u8
+#EXTINF:-1,|UK| ZEE TV FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547803.m3u8
+#EXTINF:-1,|UK| STAR GOLD FHD
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575547791.m3u8
 
